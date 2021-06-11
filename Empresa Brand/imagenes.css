@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: teal;
+}
+
+
+
+.title{
+    text-align: center;
+    font-size: 70px;
+}
